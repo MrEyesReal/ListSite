@@ -1,0 +1,31 @@
+
+
+body {
+
+    background-color:darkslategrey;
+}
+
+p {
+    color: rgb(7, 7, 75);
+    font-size: 13px;
+}
+
+div {
+
+text-align: center ;
+background-color:rgb(53, 85, 85) ;
+border-radius: 10px;
+
+}
+
+footer {
+    bottom: 0;
+    left: 0; 
+    text-align:end;
+    text-align:center;
+    
+}
+
+h4 {
+    text-align: center;
+}
